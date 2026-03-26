@@ -5,4 +5,8 @@ print("Python is a versatile language.")
 print("Wrapping up the print commands.")
 print("Task complete for pr4.py.")
 print("something")
+<<<<<<< HEAD
 b=20
+=======
+a="samyak"
+>>>>>>> dev
