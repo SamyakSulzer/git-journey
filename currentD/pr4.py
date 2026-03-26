@@ -1,2 +1,0 @@
-#adsasrgq
-print("asf")
