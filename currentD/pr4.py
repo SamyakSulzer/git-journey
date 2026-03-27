@@ -5,4 +5,4 @@ print("Python is a versatile language.")
 print("Wrapping up the print commands.")
 print("Task complete for pr4.py.")
 print("something")
-a="samyak"
+b=20
