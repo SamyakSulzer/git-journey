@@ -6,3 +6,4 @@ print("Finalizing the content for this file.")
 print("All set with pr2.py.")
 #whats up 
 x=9999
+y=100
